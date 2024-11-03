@@ -1,0 +1,68 @@
+body{
+    color: #434455;
+    line-height: 1.5;
+}
+.page-logo-first{
+color: #4D5AE5;
+text-decoration: none;
+}
+.page-logo-second{
+color: #2E2F42;
+}
+.page-nav .page-nav-link{
+list-style: none;
+text-decoration: none;
+color: #2E2F42;
+
+}
+.page-nav-link a{
+    text-decoration: inherit;
+    color: inherit;
+}
+.page-nav-link a:hover{
+    color: #4D5AE5;
+}
+.hero-section{
+    background-color: #2E2F42;
+}
+.hero-section .hero-title{
+    color: #ffffff;
+    font-size: 56px;
+    font-weight: 700;
+}
+.hero-button{
+    border: none;
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    text-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.hero-button:hover{
+    font-size:17px;
+}
+.section-about-hidden-title{
+    display: none;
+}
+.our-team-section-title,.our-portfolio-title{
+font-weight: 700;
+font-size: 36px;
+}
+footer{
+background-color: #2E2F42;
+}
+.footer-logo-first{
+color: #4D5AE5;
+text-decoration: none;
+}
+.footer-logo-second{
+color: #F4F4FD;
+}
+.page-footer-text{
+    color:#F4F4FD;
+}
+.our-team-section ul{
+    list-style-type: none;
+}
+.our-portfolio-section ul{
+    list-style-type: none;
+}
