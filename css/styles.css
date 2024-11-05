@@ -1,14 +1,14 @@
 body{
     color: #434455;
     line-height: 1.5;
-    font-family: 'Roboto' sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: #ffffff;
     
 }
 .page-logo-first{
 color: #4D5AE5;
 text-decoration: none;
-font-family: 'Raleway',sans-serif;
+font-family: "Raleway";
 font-weight: 700;
 line-height: 1.17;
     font-size: 18px;
@@ -17,7 +17,7 @@ line-height: 1.17;
 }
 .page-logo-second{
 color: #2e2f42;
-font-family: 'Raleway',sans-serif;
+font-family: "Raleway";
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
@@ -97,7 +97,7 @@ background-color: #2E2F42;
 .footer-logo-first{
 color: #4D5AE5;
 text-decoration: none;
-font-family: 'Raleway',sans-serif;
+font-family: "Raleway";
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
@@ -106,7 +106,7 @@ font-family: 'Raleway',sans-serif;
 }
 .footer-logo-second{
 color: #F4F4FD;
-font-family: 'Raleway',sans-serif;
+font-family: "Raleway";
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
@@ -114,7 +114,9 @@ font-family: 'Raleway',sans-serif;
     text-transform: uppercase
 }
 .page-footer-text{
+
     color:#F4F4FD;
+    letter-spacing: 0.02em;
 }
 .our-team-section ul{
     list-style-type: none;
