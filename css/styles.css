@@ -1,7 +1,7 @@
 body{
     color: #434455;
     line-height: 1.5;
-    font-family: "Roboto";
+    font-family: "Roboto" sans-serif;
     background-color: #ffffff;
     
 }
@@ -24,28 +24,27 @@ font-family: "Raleway";
     letter-spacing: 0.03em;
     text-transform: uppercase
 }
-.page-nav .page-nav-link{
+.page-nav .page-nav-list{
 list-style: none;
 text-decoration: none;
-color: #434455;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
+
 
 }
-.page-nav-link a{
+.page-nav-link{
     text-decoration: inherit;
-    color: inherit;
-    font-weight: inherit;
+    color: #434455;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
 }
-.page-nav-link a:hover{
+.page-nav-link:hover{
     color: #404bbf;
 }
-.page-nav-link a:focus{
+.page-nav-link:focus{
     color: #404bbf;
 }
-page-address{
+.page-address{
     font-style: normal;
 }
 .hero-section{
