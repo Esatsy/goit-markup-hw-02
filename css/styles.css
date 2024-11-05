@@ -47,6 +47,12 @@ text-decoration: none;
 .page-address{
     font-style: normal;
 }
+.page-address-list{
+    list-style-type: none;
+}
+.page-address-link{
+    font-size: 16px;
+}
 .hero-section{
     background-color: #2E2F42;
 }
