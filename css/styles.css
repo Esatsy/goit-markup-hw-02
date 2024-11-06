@@ -113,6 +113,9 @@ text-decoration: none;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.our-team-section{
+    background-color: #f4f4fd;
+}
 .our-team-section-title,.our-portfolio-title{
     line-height: 1.11;
     text-align: center;
@@ -122,15 +125,18 @@ text-decoration: none;
 font-weight: 700;
 font-size: 36px;
 }
-.our-team-section-subtitle,.our-portfolio-title{
+.our-team-section-subtitle,.our-portfolio-subtitle{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .our-team-section-text, .our-portfolio-text{
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
+}
+.our-team-section-list{
+    background-color: #FFFFFF;
 }
 footer{
 background-color: #2E2F42;
