@@ -11,7 +11,7 @@ ul{
 .page-logo-first{
 color: #4D5AE5;
 text-decoration: none;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 line-height: 1.17;
     font-size: 18px;
@@ -20,7 +20,7 @@ line-height: 1.17;
 }
 .page-logo-second{
 color: #2e2f42;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
@@ -97,9 +97,6 @@ text-decoration: none;
     background-color: #404BBF;
     cursor: pointer;
 }
-.section-about-hidden-title{
-    display: none;
-}
 .section-about-title{
     font-weight: 500;
     font-size: 20px;
@@ -144,7 +141,7 @@ background-color: #2E2F42;
 .footer-logo-first{
 color: #4D5AE5;
 text-decoration: none;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
@@ -153,7 +150,7 @@ font-family: "Raleway";
 }
 .footer-logo-second{
 color: #F4F4FD;
-font-family: "Raleway";
+font-family: "Raleway", sans-serif;
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
